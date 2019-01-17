@@ -1,0 +1,69 @@
+html {background-color:#E9A9E8;}
+
+.containerOne {
+  height: 10px;
+  width: 10px;
+  margin: 2rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 25px;
+}
+
+.containerTwo {
+  height: 10px;
+  width: 10px;
+  margin: 2rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 25px;
+}
+
+.containerThr {
+  height: 10px;
+  width: 10px;
+  margin: 2rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 25px;
+}
+
+.cell {
+  color: white;
+  font-size: 3rem;
+  text-align: center;
+  padding: 0.5rem;
+}
+
+.button {
+    height: 50px;
+    width: 100px;
+}
+
+.box {
+    height: 50px;
+    width: 150px;
+}
+
+.cell-1 {
+  outline-style: double;
+}
+
+.cell-2 {
+  outline-style: double;
+}
+
+.cell-3 {
+  outline-style: double;
+}
+
+.cell-4 {
+  outline-style: double;
+}
+
+.cell-5 {
+  outline-style: double;
+}
+
+.cell-6 {
+  outline-style: double;
+}
